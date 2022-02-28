@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The two last prayers of VVilliam late Viscount Stafford, at his execution on Tower-hill Wednesday the 29th. of Dec. 1680 the one in Latin, the other in English.</title>
+            <author>Stafford, William Howard, Viscount, 1614-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93764</idno>
+            <idno type="STC">Wing S5159</idno>
+            <idno type="STC">ESTC R229845</idno>
+            <idno type="EEBO-CITATION">99899310</idno>
+            <idno type="PROQUEST">99899310</idno>
+            <idno type="VID">153004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2339:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The two last prayers of VVilliam late Viscount Stafford, at his execution on Tower-hill Wednesday the 29th. of Dec. 1680 the one in Latin, the other in English.</title>
+                  <author>Stafford, William Howard, Viscount, 1614-1680.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁶.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, William Howard, --  Viscount, 1614-1680 --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153004:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <p>THE TWO LAST PRAYERS OF WILLIAM LATE VISCOUNT STAFFORD, At his Execution on <hi>
+                  <hi>Tower-Hill,</hi> Wedneſday</hi> the 29<hi>th.</hi> of <hi>Dec.</hi> 1680</p>
+            <p>The one in <hi>Latin,</hi> the other in <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1681.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:153004:2"/>
+            <!-- PDF PAGE 77 -->
+            <p>THe laſt Speech of the late Viſ<g ref="char:EOLhyphen"/>count <hi>Stafford</hi> having been already made Publick, the true Copy of theſe laſt Prayers; The One in <hi>Latin,</hi> the other in <hi>Engliſh,</hi> falling into my Hands, I thought the Pub<g ref="char:EOLhyphen"/>lication of them would not be unac<g ref="char:EOLhyphen"/>ceptable to the Curious. I have there<g ref="char:EOLhyphen"/>fore for their ſakes Publiſhed them without any Deſcant of mine own; having only added the Tranſlation of the <hi>Latin Prayer,</hi> for the Satiſ<g ref="char:EOLhyphen"/>faction of thoſe, that underſtand not that Language.</p>
+         </div>
+      </front>
+      <body>
+         <div type="scaffold_prayer">
+            <pb facs="tcp:153004:2"/>
+            <!-- PDF PAGE 77 -->
+            <head>The Two Laſt Prayers of <hi>William</hi> late Viſcount <hi>STAFFORD,</hi> at his Execution on <hi>Tower-Hill; Wedneſday</hi> the 29th. Day of <hi>December 1680.</hi>
+            </head>
+            <div xml:lang="lat" type="version">
+               <head>
+                  <g ref="char:cross">✚</g>
+               </head>
+               <p>
+                  <seg rend="decorInit">A</seg>Gnoſco (Domine JESU) peccata mea, multa &amp; magna, pro qui<g ref="char:EOLhyphen"/>bus timeo; ſed ſpero in miſeri<g ref="char:EOLhyphen"/>cordiâ &amp; miſerationibus tuis, quarum non eſt numerus: Se<g ref="char:EOLhyphen"/>cundum igitur magnam miſeri<g ref="char:EOLhyphen"/>cordiam tuam miſerere mei, &amp;
+<pb facs="tcp:153004:3"/>
+                  <!-- PDF PAGE 78 -->ſecundum multitudinem miſera<g ref="char:EOLhyphen"/>tionum tuarum dele iniquitatem meam. Si Peccata mea magna ſunt, major eſt miſericordia tua: Si multa, infinitae ſunt miſerati<g ref="char:EOLhyphen"/>ones tuae. Si ego commiſi, undè me poſſis condemnare, tu non amiſiſti, unde potes, &amp; ſoles ſal<g ref="char:EOLhyphen"/>vare. Credenti in potentiâ tuâ, &amp; dicenti, <hi>Domine, ſi vis, potes me mundare,</hi> tu ſtatim reſpondiſti, <hi>Volo, mundare:</hi> Credo, quod ipſe ſperavit, imploro, quod ipſe im<g ref="char:EOLhyphen"/>ploravit. Dic. igitur animae meae, <hi>Salus tua ego ſum:</hi> Sana me, Do<g ref="char:EOLhyphen"/>mine JESU, &amp; ſanabor: Sal<g ref="char:EOLhyphen"/>vum me fac, &amp; ſalvus ero, &amp; miſericordias tuas in aeternum cantabo. Nè projicias me igitur à faciê tuâ, &amp; Spiritum ſanctum tuum nè auferas à me; Sed redde
+<pb facs="tcp:153004:3"/>
+                  <!-- PDF PAGE 78 -->mihi laetitiam falutaris tui, &amp; Spiritu principali confirma me. Tu dixifti, dulciſſime JESU, <hi>Convertimini ad me, &amp; ego conver<g ref="char:EOLhyphen"/>tar ad vos:</hi> Ego me ex toto corde meo, ex totâ animâ meâ, ex totâ mente meâ, converto ad te; con<g ref="char:EOLhyphen"/>verte te igitur, miſericordiſſime, ad me indignum famulum tuum, quem pretioſo ſanguine redemi<g ref="char:EOLhyphen"/>ſti. Tu dixiſti, <hi>Qui me confeſsus fuerit coram hominibus, confitebor &amp; ego eum coram patre meo, qui in caelis eſt.</hi> Ego te &amp; Sanctam tuam Reli<g ref="char:EOLhyphen"/>gionem Catholicam vivens con<g ref="char:EOLhyphen"/>fiteor, &amp; moriens, adjuvante gratiâ tuâ, confitebor: dignare me igitur ſuſcipere, &amp; confiteri coram patre tuo, qui in Coelis eſt. In tuâ promiſſione, non in meâ juſtitiâ confido. Vitam,
+<pb facs="tcp:153004:4"/>
+                  <!-- PDF PAGE 79 -->quam dediſti mihi, libentèr tibi reddo ſecundum beneplacitum tuum: in manus tuas commendo Spiritum meum, qui moriens Spiritum tuum in manus aeterni Patris commendaſti. In pace igitur in id ipſum dormiam &amp; requieſcam: quoniam to, Do<g ref="char:EOLhyphen"/>mine, ſingularitèr in ſpê conſti<g ref="char:EOLhyphen"/>tuiſti me.</p>
+               <closer>
+                  <hi>Amen,</hi> JESU, <hi>Amen.</hi>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="version">
+               <head>
+                  <g ref="char:cross">✚</g>
+               </head>
+               <p>
+                  <hi>I</hi> Acknowledge (O Lord JESUS) my Sins, Many and Great, for which I fear; But I hope in thy Mer<g ref="char:EOLhyphen"/>cy and Commiſerations, whereof there is no number: Have Mercy there<g ref="char:EOLhyphen"/>fore upon Me according to thy Great Mercy, and according to the Multi<g ref="char:EOLhyphen"/>tude
+<pb facs="tcp:153004:4"/>
+                  <!-- PDF PAGE 79 -->of thy Commiſerations, blot out mine Iniquity. If my Sins are great, thy Mercy is greater; If they are many, thy Commiſerations are Infinite: If I have Committed That, for which thou mayeſt Condemn me, thou haſt not loſt that, by which thou canſt, and uſeſt to Save. To him, that be<g ref="char:EOLhyphen"/>lieving in thy Power ſaid, <hi>Lord, If Thou wilt, Thou canſt make me clean;</hi> Thou preſently anſwe<g ref="char:EOLhyphen"/>redſt, <hi>I will, be clean:</hi> I believe, what he hoped for, I Implore, what He Implored. Say therefore to my Soul, <hi>I am thy Salvation:</hi> Heal Me, O Lord <hi>JESUS,</hi> and I ſhall be healed: Save Me, and I ſhall be ſaved, and will ſing forth thy Mer<g ref="char:EOLhyphen"/>cies for ever. Caſt me not therefore away from thy Face, and take not thy Holy Spirit from Me; But render
+<pb facs="tcp:153004:5"/>
+                  <!-- PDF PAGE 80 -->me the joy of thy Salvation, and Con<g ref="char:EOLhyphen"/>firm me with thy Principal Spirit. Thou, moſt Sweet <hi>JESUS,</hi> haſt ſaid, <hi>Turn to Me, and I will turn to You:</hi> I turn to Thee with all my Heart, with all my Soul, with all my Mind; Turn thou there<g ref="char:EOLhyphen"/>fore, O moſt Merciful, unto Me thine unworthy Servant, whom thou hast re<g ref="char:EOLhyphen"/>deemed with thy moſt Precious Blood Thou haſt ſaid, <hi>He that ſhall con<g ref="char:EOLhyphen"/>feſs me before Men, I alſo will Confeſs him before my Father which is in Heaven.</hi> I, Living Confeſs; and Dying, by the help of thy Grace, will Confeſs Thee, and thy <hi>Holy Catholick Religion:</hi> Vouchſafe Therefore to Receive Me, and Confeſs Me before thy Father which is in Heaven. I confide in thy Promiſe, not in mine own Juſtice.
+<pb facs="tcp:153004:5"/>
+                  <!-- PDF PAGE 80 -->The Life which Thou haſt given Me, I willingly render unto Thee accord<g ref="char:EOLhyphen"/>ing to thy good Pleaſure. Into Thy Hands do I commend m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Spirit, who Dying commended thy Spirit into the Hands of thy Eternall Father. In Peace therefore upon the ſame will I ſleep and take my reſt; becauſe thou, O Lord, haſt ſingularly conſti<g ref="char:EOLhyphen"/>tuted me in hope.</p>
+               <closer>
+                  <hi>Amen,</hi> JESUS, <hi>Amen.</hi>
+               </closer>
+            </div>
+         </div>
+         <div type="scaffold_prayer">
+            <head>
+               <g ref="char:cross">✚</g>
+            </head>
+            <p>THou haſt ſaid, O Lord, <hi>He that loves Father or Mo<g ref="char:EOLhyphen"/>ther more than me, is not wor<g ref="char:EOLhyphen"/>thy of me.</hi> I acknowledge, moſt dear Lord, that I love my Wife and
+<pb facs="tcp:153004:6"/>
+               <!-- PDF PAGE 81 -->Children as much, as a loving Huſ<g ref="char:EOLhyphen"/>band and tender Father can love a moſt deſerving Wife and moſt duti<g ref="char:EOLhyphen"/>ful Children; But to ſhew, that I love thy Divine Majeſty more than them, and mine own Life to boot, I willingly render and forſake both for the love of thee, and rather than to offend thee, though by the contrary I may have Life and all Worldly advan<g ref="char:EOLhyphen"/>tages, both for my ſelf and them. Receive therefore, dear <hi>JESUS,</hi> this voluntary Oblation of both, take us into thy Protection, O Helper in Tribulations, in Opportunities. Be thou a Judg and a Spouſe to the Wi<g ref="char:EOLhyphen"/>dow, a Father to the Orphans, and Salvation to all our Souls. I rejoyce to have ſo dear a Pledge, to offer and preſent thee for all thy Bleſsings and Benefits beſtowed upon us, and for
+<pb facs="tcp:153004:6"/>
+               <!-- PDF PAGE 81 -->thy ſake, who offeredſt thy ſelf to Death for us, even the moſt Ignomi<g ref="char:EOLhyphen"/>nious Death upon the Croſs. Receive therefore, ſweet <hi>JESUS,</hi> this poor Oblation of mine, though all I am able to offer thee, in union of all thy Ob<g ref="char:EOLhyphen"/>lations of thy moſt ſacred Life, Death, and Paſsion; and of all thoſe divine Oblations, which have been, are, and ever ſhall be offered upon thy holy Altar: All which I offer thee, and by thy hands to thy eternal Father. O Father, look upon the Face of thy <hi>CHRIST,</hi> and turn away thy Face from my Sins. O holy <hi>MARY,</hi> Mother of <hi>GOD,</hi> all the holy An<g ref="char:EOLhyphen"/>gels and Saints of Heaven, vouch<g ref="char:EOLhyphen"/>ſafe to make Interceſsion for me, that what I deſerve not for my ſelf, may by your Merits and In<g ref="char:EOLhyphen"/>terceſſion be beſtowed upon me.
+<pb facs="tcp:153004:7"/>
+               <!-- PDF PAGE 82 -->
+               <hi>Amen,</hi> JESU, <hi>Amen.</hi> Grant and ratify, what I ask, for thy Names ſake. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
